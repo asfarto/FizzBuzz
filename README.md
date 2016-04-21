@@ -1,10 +1,8 @@
 # FizzBuzz
 
-FizzBuzz 
+Kata FizzBuzz 
 
-## Development
-
-After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests.
+Run `rake` or `rake spec` to run the tests.
 
 ## License
 
